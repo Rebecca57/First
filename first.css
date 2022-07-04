@@ -1,3 +1,5 @@
 h1{
     color: rgb(55, 117, 128);
+    border: solid 2px black;
+    font-size: 2em;
 }
