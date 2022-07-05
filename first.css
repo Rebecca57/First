@@ -3,3 +3,11 @@ h1{
     border: solid 2px black;
     font-size: 2em;
 }
+
+h2{
+    color: blue;
+}
+
+body{
+    background-color: cadetblue;
+}
